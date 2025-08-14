@@ -24,35 +24,40 @@ You can add between 3 and 7 tasks, assign priorities (High, Medium, Low), and th
 
 ## Installation
 
-### 1️⃣ Compile
+## Installation
+
+### 1. Compile
+Run this command in your terminal:
+
 ```bash
 javac WeeklyPlanner.java
+```
 
-### 2️⃣ RunFromTerminal 
+### 2. Run from terminal
 java WeeklyPlanner
 
-### 3️⃣ Optional: Create a Mac .app to run by double-click
-
+### 3. Optional: Create a Mac .app for double-click execution
 # Create an executable jar
 jar cfe WeeklyPlanner.jar WeeklyPlanner *.class
 
 # Then use Automator on Mac to create an application that runs this jar
 
-Example Usage
+### 4 Example Usage
 
+# Terminal Input:
 Welcome to Weekly Planner!
 How many tasks do you want to add? (3-7): 3
 
-Task 1: Wash the car
+Task 1 name: Wash the car
 Priority (High, Medium, Low): High
 
-Task 2: Study Java
+Task 2 name: Study Java
 Priority (High, Medium, Low): Medium
 
-Task 3: Go to the gym
+Task 3 name: Go to the gym
 Priority (High, Medium, Low): Low
 
-Generated Markdown (WeeklyPlanner.md):
+### Generated Markdown (WeeklyPlanner.md):
 
 # Weekly Planner
 
@@ -60,13 +65,17 @@ Generated Markdown (WeeklyPlanner.md):
 - 💧 Wash the car _(Priority: High)_
 - 📚 Study Java _(Priority: Medium)_
 - 🏃 Go to the gym _(Priority: Low)_
-
 Screenshots
 
-(Add images of your terminal showing the app running here)
+(Add images of your terminal running the app and the generated Markdown file here)
 
-Author Jose Flores— 2025
- 
+⸻
+
+Author 
+
+Jose Flores — 2025
+
+⸻
 
 License
 
