@@ -67,9 +67,7 @@ Priority (High, Medium, Low): Low
 ## Screenshots
 
 ![Weekly Planner Terminal](screenshots/terminal_example.png)
-
-### 2. Generated Markdown file
-Weekly Planner Markdown (screenshots/markdown_generated.png)
+![Weekly Planner Markdown](screenshots/markdown_generated.png)
 
 ⸻
 
