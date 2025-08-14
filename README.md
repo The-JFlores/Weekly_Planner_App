@@ -63,9 +63,16 @@ Priority (High, Medium, Low): Low
 - 💧 Wash the car _(Priority: High)_
 - 📚 Study Java _(Priority: Medium)_
 - 🏃 Go to the gym _(Priority: Low)_
-Screenshots
 
-(Add images of your terminal running the app and the generated Markdown file here)
+## Screenshots
+
+## Screenshots
+
+### 1. App running in terminal
+![Weekly Planner Terminal](screenshots/terminal_example.png)
+
+### 2. Generated Markdown file
+![Weekly Planner Markdown](screenshots/markdown_generated.png)
 
 ⸻
 
