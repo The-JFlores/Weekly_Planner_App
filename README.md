@@ -28,10 +28,10 @@ You can add between 3 and 7 tasks, assign priorities (High, Medium, Low), and th
 ```bash
 javac WeeklyPlanner.java
 
-### 2️⃣ Run from terminal 
+### 2️⃣ RunFromTerminal 
 java WeeklyPlanner
 
-3️⃣ Optional: Create a Mac .app to run by double-click
+### 3️⃣ Optional: Create a Mac .app to run by double-click
 
 # Create an executable jar
 jar cfe WeeklyPlanner.jar WeeklyPlanner *.class
