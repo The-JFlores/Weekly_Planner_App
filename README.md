@@ -24,8 +24,6 @@ You can add between 3 and 7 tasks, assign priorities (High, Medium, Low), and th
 
 ## Installation
 
-## Installation
-
 ### 1. Compile
 Run this command in your terminal:
 
