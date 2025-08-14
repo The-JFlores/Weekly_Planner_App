@@ -1,17 +1,11 @@
 # Weekly Planner
 
 ## Monday
-- Wash the car 💧 _(Priority: High)_
-
-## Tuesday
-- Study Java 📚 _(Priority: Medium)_
-
-## Wednesday
-- Go to the gym 🏃 _(Priority: Low)_
+- wash car 💧 _(Priority: Low)_
 
 ## Friday
-- Cook dinner 🍽️ _(Priority: Medium)_
+- gym 🏃 _(Priority: High)_
 
 ## Sunday
-- Call mom 📞 _(Priority: High)_
+- wash dog 💧 _(Priority: Medium)_
 
