@@ -3,18 +3,6 @@ import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-class Task {
-    String name;
-    String day;
-    String priority;
-
-    Task(String name, String day, String priority) {
-        this.name = name;
-        this.day = day;
-        this.priority = priority;
-    }
-}
-
 public class WeeklyPlanner {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
