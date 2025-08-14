@@ -66,10 +66,7 @@ Priority (High, Medium, Low): Low
 
 ## Screenshots
 
-## Screenshots
-
-### 1. App running in terminal
-Weekly Planner Terminal (screenshots/terminal_example.png)
+![Weekly Planner Terminal](screenshots/terminal_example.png)
 
 ### 2. Generated Markdown file
 Weekly Planner Markdown (screenshots/markdown_generated.png)
