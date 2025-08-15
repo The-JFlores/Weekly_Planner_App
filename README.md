@@ -38,9 +38,33 @@ java WeeklyPlanner
 # Create an executable jar
 jar cfe WeeklyPlanner.jar WeeklyPlanner *.class
 
+	•	c → create a jar
+	•	f → specify the file name
+	•	e → specify the main class (WeeklyPlanner)
+  Run it using:
+
+  java -jar WeeklyPlanner.jar
+  
 # Then use Automator on Mac to create an application that runs this jar
 
+  1.	Open Automator → select Application.
+	2.	Add the action “Run Shell Script”.
+	3.	Enter the following in the shell script:
+  ```bash
+  cd /path/to/your/project
+java -jar WeeklyPlanner.jar
+
+	4.	Save the application as WeeklyPlanner.app.
+	5.	Now you can double-click to run your Java app.
+
+
 ### 4 Example Usage
+
+(Optional) Change the Icon
+	•	Right-click the .app → Get Info
+	•	Drag a .icns icon onto the top-left icon to customize it.
+
+### 5 Example Usage
 
 # Terminal Input:
 Welcome to Weekly Planner!
